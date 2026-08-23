@@ -1,2 +1,4 @@
 After 2 and a half hours, I finished the schematic.
-It then took me 3 hours to have a semi-completed keyboard layout.
+Fixed there being a duplicate column
+It then took me 3 hours to have a semi-completed keyboard layout.#
+fixed there being one extra key
