@@ -3,3 +3,4 @@ Fixed there being a duplicate column
 It then took me 3 hours to have a semi-completed keyboard layout.
 Fixed there being two extra keys
 After another 3 hours, I finished the PCB.
+And then I spent another hour fixing issues
