@@ -1,4 +1,4 @@
-After 2 and a half hours, I finished the schematic.
+After 2 and a half hours, I finished the schematic. journal/Schematic.png
 Fixed the duplicate column
 It then took me 3 hours to have a semi-completed keyboard layout.
 Fixed the issue of two extra keys
