@@ -6,3 +6,4 @@ After another 3 hours, I finished the PCB.
 And then I spent another hour fixing issues
 And then I spent another hour adding models to my PCB and exporting it into Onshape.
 I spent 2 hours making the case and starting the key plate cutout. 
+After another Hour i finished the plate cutout. 
