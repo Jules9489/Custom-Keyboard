@@ -6,6 +6,8 @@ Plan:
 
 Rotary Encoder for Media Controls 
 
+Foam Padding in the Case 
+
 Result:
 
 A nice-looking 65% keyboard that has a rotary encoder for media controls.
