@@ -1,4 +1,4 @@
-After 2 and a half hours, I finished the schematic. 
+After 3 hours, I finished the schematic. 
 Fixed the duplicate column
 It then took me 3 hours to have a semi-completed keyboard layout.
 Fixed the issue of two extra keys
@@ -6,7 +6,7 @@ After another 3 hours, I finished the PCB.
 And then I spent another hour fixing issues
 And then I spent another hour adding models to my PCB and exporting it into Onshape.
 I spent 2 hours making the case and starting the key plate cutout. 
-After another Hour i finished the plate cutout. #
-2 hours later, I finished the case
+After another hour, I finished the plate cutout. 
+3 hours later, I finished the case
 After that, I spent another 1 hour splitting it into two parts for 3d printing.
-Then I spent 1 hour making the Firmware using RMK, which is the last thing I needed to do for this project.
+Then I spent 2 hours making the Firmware using RMK, which was the last thing I needed to do for this project.
