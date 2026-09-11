@@ -1,9 +1,11 @@
 # Journal # 
 
+## Schematic ##
 After 3 hours, I finished the schematic, which was quite fun.
 
 Fixed the duplicate column, which I had for some reason.
 
+## PCB Design ##
 It then took me 3 hours to have a semi-completed keyboard layout, this was so painful.
 
 Fixed the issue of two extra keys.
