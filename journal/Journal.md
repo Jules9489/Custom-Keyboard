@@ -5,7 +5,7 @@ After 3 hours, I finished the schematic, which was quite fun.
 
 Fixed the duplicate column, which I had for some reason.
 
-![Schematic](journal/Schematic.png)
+![Schematic](/Schematic.png)
 
 **Total time: 3 Hours**
 
@@ -14,17 +14,17 @@ It then took me 3 hours to have a semi-completed keyboard layout, this was so pa
 
 Fixed the issue of two extra keys.
 
-![Schematic](journal/Pcb_designing.png)
+![Schematic](/Pcb_designing.png)
 
 After another 3 hours, I finished the PCB.
 
-![Schematic](journal/Completed_PCB.png)
+![Schematic](/Completed_PCB.png)
 
 And then I spent another hour fixing issues, a lot of issues 
 
 And then I spent another hour adding models to my PCB and exporting it into Onshape.
 
-![Schematic](journal/3D_PCB.png)
+![Schematic](/3D_PCB.png)
 
 **Total time: 7 Hours**
 
@@ -32,15 +32,15 @@ And then I spent another hour adding models to my PCB and exporting it into Onsh
 
 I spent 2 hours making the case and starting the key plate cutout. 
 
-![Schematic](journal/Case_design.png)
+![Schematic](/Case_design.png)
 
 After another hour, I finished the plate cutout. 
 
-![Schematic](journal/Pcb_designing.png)
+![Schematic](/Pcb_designing.png)
 
 3 hours later, I finished the case.
 
-![Schematic](journal/Finished_case.png)
+![Schematic](/Finished_case.png)
 
 After that, I spent another 1 hour splitting it into two parts for 3d printing.
 
