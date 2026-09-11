@@ -36,7 +36,7 @@ I spent 2 hours making the case and starting the key plate cutout.
 
 After another hour, I finished the plate cutout. 
 
-![Schematic](Images/Pcbdesigning.png)
+![Schematic](Images/Keyboardplatedesign.png)
 
 3 hours later, I finished the case.
 
