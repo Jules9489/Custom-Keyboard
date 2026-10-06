@@ -3,14 +3,14 @@
 ## Schematic 
 After 3 hours, I finished the schematic, which was quite fun but difficult. 
 
-I Fixed the duplicate column, which I had for some reason.
+I fixed the duplicate column, which I had for some reason.
 
 ![Schematic](Images/Schematic.png)
 
 **Total time: 3 Hours**
 
 ## PCB Design 
-It then took me 3 hours to have a semi-completed keyboard layout, this took a while as I had to restart multiple times because I messed it up.
+It then took me 3 hours to have a semi-completed keyboard layout; this took a while as I had to restart multiple times because I messed it up.
 
 I think Fixed the issue of two extra keys, which took longer than I'd like to admit
 
@@ -22,7 +22,7 @@ After another 3 hours, I finished the PCB.
 
 And then I spent another hour fixing issues.
 
-And then I spent another hour adding models to my PCB and exporting it into Onshape which took a while because I couldn't find any models.
+Then I spent another hour adding models to my PCB and exporting it into Onshape, which took a while because I couldn't find any models.
 
 ![Schematic](Images/3DPCB.png)
 
@@ -56,5 +56,5 @@ Then I spent 2 hours making the Firmware using RMK, which was the last thing I n
 
 ## Extra 
 
-I created an extra case design that is gasket-mounted, which I will not count towards the final time
+I created an extra case design that is gasket-mounted(which is why I have included O-rings in my BOM), which I will not count towards the final time.
 
