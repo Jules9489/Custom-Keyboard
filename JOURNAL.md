@@ -53,3 +53,8 @@ Then I spent 2 hours making the Firmware using RMK, which was the last thing I n
 
 
 *Total Project time: 33 hours*
+
+## Extra 
+
+I created an extra case design that is gasket-mounted, which I will not count towards the final time
+
