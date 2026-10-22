@@ -50,6 +50,8 @@ After that, I spent another 1 hour splitting it into two parts for 3d printing.
 
 Then I spent 2 hours making the Firmware using RMK, which was the last thing I needed to do for this project.
 
+![Schematic](Images/
+
 **Total time: 2 Hours**
 
 
