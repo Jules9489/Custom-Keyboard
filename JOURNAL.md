@@ -1,4 +1,9 @@
-# Journal
+---
+title: Custom Keyboard
+github: https://github.com/Jules9489/Custom-Keyboard
+description: A simple 65% Keyboard with media controls and gaskets and padding for noise dampening.
+created_at: 21/8/26
+---
 
 ## Schematic (22/8/26)
 After 3 hours, I finished the schematic, which was quite fun but difficult. 
