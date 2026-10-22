@@ -16,9 +16,9 @@ It took me a while to make because I ran into different problems along the way, 
 
 https://cad.onshape.com/documents/b6e58a4c59b5eab8ab909f70/w/83c04b1bc76860f5f25fe353/e/ed9d0ab061e5040caacf7854
 
-![Schematic](Images/Schematic)
+![Schematic](Images/Schematic.png)
 
-![Schematic](Images/CompletedPCB)
+![Schematic](Images/CompletedPCB.png)
 
-![Schematic](Images/Gasket)
+![Schematic](Images/Gasket.png)
 
