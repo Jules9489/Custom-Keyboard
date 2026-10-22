@@ -59,14 +59,13 @@ Then I spent 3 hours making the Firmware using RMK, which was the last thing I n
 
 **Total time: 3 Hours**
 
-
-*Total Project time: 22 hours*
-
 ## Extra (6/10/26)
 
-I created an extra gasket-mounted case design (which is why I included O-rings in my BOM), which I will not count toward the final time. 
+I created an extra gasket-mounted case design (which is why I included O-rings in my BOM). 
 
 ![Schematic](Images/Gasket.png)
 
-**Total time: N/A**
+**Total time: 4 Hours**
+
+*Total Project time: 26 hours*
 
