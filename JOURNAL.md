@@ -66,5 +66,7 @@ Then I spent 3 hours making the Firmware using RMK, which was the last thing I n
 
 I created an extra gasket-mounted case design (which is why I included O-rings in my BOM), which I will not count toward the final time. 
 
+![Schematic](Images/Gasket.png)
+
 **Total time: N/A**
 
