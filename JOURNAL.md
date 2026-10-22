@@ -26,11 +26,11 @@ Then I spent another hour adding models to my PCB and exporting it into Onshape,
 
 ![Schematic](Images/3DPCB.png)
 
-**Total time: 7 Hours**
+**Total time: 8 Hours**
 
 ## Case Design (24/8/26)
 
-I spent 2 hours making the case and starting the key plate cutout. 
+I spent 3 hours making the case and starting the key plate cutout. 
 
 ![Schematic](Images/Casedesign.png)
 
@@ -44,22 +44,22 @@ After another hour, I finished the plate cutout.
 
 After that, I spent another 1 hour splitting it into two parts for 3d printing.
 
-**Total time: 7 Hours**
+**Total time: 8 Hours**
 
 ## Firmware (25/8/26)
 
-Then I spent 2 hours making the Firmware using RMK, which was the last thing I needed to do for this project.
+Then I spent 3 hours making the Firmware using RMK, which was the last thing I needed to do for this project.
 
 ![Schematic](Images/Firmware.png)
 
-**Total time: 2 Hours**
+**Total time: 3 Hours**
 
 
-*Total Project time: 33 hours*
+*Total Project time: 22 hours*
 
 ## Extra (6/10/26)
 
-I created an extra case design that is gasket-mounted(which is why I have included O-rings in my BOM), which I will not count towards the final time. 
+I created an extra gasket-mounted case design (which is why I included O-rings in my BOM), which I will not count toward the final time. 
 
 **Total time: N/A**
 
